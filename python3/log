@@ -1,0 +1,5 @@
+start????
+Thread blocking on recv()
+SENT {'cmd': 'item.get-sub', 'id': '0'}
+GOT:  {"cmd":"item.give","id":"0","item":{"__commit__":0,"__item__":"0","__type__":"mize-main","hi":2,"next_free_id":1,"num_of_items":1,"test":4}}
+Thread blocking on recv()

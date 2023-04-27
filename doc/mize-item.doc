@@ -1,0 +1,13 @@
+
+# The mize-item Plugin
+
+This Plugin is used to open a Item from a mize server/daemon.
+
+It enables editing of the raw json (but formated) and sends an update to the server/daemon on write.
+
+## Usage
+Start vim with vim --item <id>
+You can use an @hostname/id or @ip/id to open an item from a different server then the default one.
+
+
+
